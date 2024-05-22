@@ -44,6 +44,8 @@ for layer in layers_names:
         # Add the layer to the current project
         QgsProject.instance().addMapLayer(vlayer)</pre>
 
-You can clone the repository and access the [full code](1_Load_all_Layers_from_Geopackage.py)
+You can clone the repository and access the [full code](1_Load_all_Layers_from_Geopackage.py).
+Here is the result : 
+![result of layers import from geopackage](images/result_import_layers_from_geopackage.PNG)
 
 
